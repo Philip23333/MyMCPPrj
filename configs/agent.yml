@@ -1,0 +1,16 @@
+# 智谱 AI 配置
+ZHIPUAI_API_KEY: "60e4d04c2eb04d4aa79d92bf85ce2b13.6632gtVdvyAPcGy7"
+ZHIPUAI_URL: "https://open.bigmodel.cn/api/paas/v4/"
+chat_model_name: "qwen3-coder-plus"  # 使用的聊天模型名称
+
+# 心流api
+iflow_chat_model_name: "qwen3-coder-plus"
+IFLOW_URL: "https://apis.iflow.cn/v1/chat/completions"
+IFLOW_API_KEY: "sk-cba02c1a77517a918f311fd48a2cbc30"
+IFLOW_BASE_URL: "https://apis.iflow.cn/v1"
+
+# DashScope
+DASH_SCOPE_EMBEDDING_MODEL_NAME: "text-embedding-v4"  # 使用的嵌入模型名称
+DASH_SCOPE_MODEL_NAME: "Qwen-Plus"
+DASH_SCOPE_API_KEY: "sk-1fb22326c39a41c0b2270925706c3203"
+DASH_SCOPE_URL: "https://dashscope.aliyuncs.com/compatible-mode/v1"

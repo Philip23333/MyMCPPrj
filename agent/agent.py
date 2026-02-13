@@ -1,7 +1,7 @@
 
 class MyAgent:
     def __init__(self, name):
-        self.agent = Tool
+        self.agent = None
 
     def act(self, observation):
         # Implement your agent's logic here
